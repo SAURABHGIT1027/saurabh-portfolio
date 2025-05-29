@@ -4,33 +4,33 @@ Welcome to the official repository of my personal portfolio website!
 This site showcases my skills, projects, and professional journey as a Software Developer.
 
 ## 🚀 Live Demo
-Check out the live website here: [saurabh-portfolio](https://saurabh-portfolio.vercel.app) *(update the link if hosted somewhere else)*
+Check out the live portfolio:  
+🔗 [saurabhgit1027.github.io/saurabh-portfolio](https://saurabhgit1027.github.io/saurabh-portfolio/)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Tailwind CSS
-- **Deployment:** Vercel / Netlify / GitHub Pages *(whichever applies)*
+- **Frameworks/Libraries:** React.js (or plain HTML/CSS/JS if applicable)
+- **Deployment:** GitHub Pages
 - **Version Control:** Git & GitHub
 
 ---
 
 ## 📂 Features
 
-- 🔹 Clean and responsive UI
-- 🔹 About Me section
-- 🔹 Skills & Tech Stack highlights
-- 🔹 Projects with GitHub links
-- 🔹 Contact form or contact info
-- 🔹 Dark/Light theme toggle *(if applicable)*
+- ✅ Responsive design for all devices
+- ✅ "About Me" section
+- ✅ Skills and Technologies
+- ✅ Projects showcase with GitHub links
+- ✅ Contact section
 
 ---
 
 ## 📸 Screenshots
 
-*(Add screenshots of your site here)*  
+*(Add your portfolio screenshots here)*  
 Example:
 
 ![Portfolio Screenshot](./assets/portfolio-screenshot.png)
@@ -50,4 +50,5 @@ Example:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
 
